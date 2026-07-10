@@ -1,0 +1,1 @@
+In this Figma file, one section has something missing, so you need to make a relevant section for this section and give this section HTML and CSS code
